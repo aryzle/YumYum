@@ -1,0 +1,33 @@
+{
+  "name": "yumyum",
+  "version": "2.0.0",
+  "description": "Free food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryzle/YumYum.git"
+  },
+  "author": "aryzle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aryzle/YumYum/issues"
+  },
+  "homepage": "https://github.com/aryzle/YumYum#readme",
+  "devDependencies": {
+    "backbone": "^1.2.1",
+    "browserify": "^10.2.6",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.6",
+    "handlebars": "^3.0.3",
+    "jquery": "^2.1.4",
+    "underscore": "^1.8.3",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

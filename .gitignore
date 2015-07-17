@@ -18,3 +18,9 @@
 # Ignore vim files
 *.swo
 *.swp
+
+# Node
+/node_modules
+
+# My notes
+notes.md
